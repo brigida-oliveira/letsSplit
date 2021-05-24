@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Vamos Dividir!</string>
+    <string name="cost_of_service">Valor</string>
+    <string name="how_was_the_service">Como foi o serviço?</string>
+    <string name="amazing_20">Incrível (20%)</string>
+    <string name="great_18">Ótimo (18%)</string>
+    <string name="good_15">Bom (15%)</string>
+    <string name="ok_10">Ok (10%)</string>
+    <string name="round_up_tip">Arredonda a gorjeta?</string>
+    <string name="calculate">Calcule</string>
+    <string name="tip_amount">Valor total da gorjeta: %s</string>
+    <string name="tip_by_person">Gorjeta por pessoa: %s</string>
+    <string name="total_amount">Total por pessoa: %s</string>
+    <string name="person_cost">Valor dividido por pessoa: %s</string>
+    <string name="split_by">Divida por</string>
+</resources>
